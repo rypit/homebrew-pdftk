@@ -1,5 +1,5 @@
 # homebrew-pdftk
-A [homebrew](https://brew.sh/) [cask](http://caskroom.io/) for installing [pdftk](pdftk-server https://www.pdflabs.com/tools/pdftk-server/).
+A [homebrew](https://brew.sh/) [cask](http://caskroom.io/) for installing [pdftk](https://www.pdflabs.com/tools/pdftk-server/).
 
 ## Usage
 ```bash
